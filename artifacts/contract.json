@@ -1,0 +1,20 @@
+{
+  "name": "MessageReceiver",
+  "methods": [
+    {
+      "name": "set_owner",
+      "args": [],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "message",
+      "args": [],
+      "returns": {
+        "type": "void"
+      }
+    }
+  ],
+  "networks": {}
+}
